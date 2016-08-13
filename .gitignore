@@ -2,3 +2,5 @@ env/
 exports/
 twitterKeys.py
 *.pyc
+uniquetweets
+Generators/
